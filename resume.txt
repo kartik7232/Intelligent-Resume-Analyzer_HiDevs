@@ -1,0 +1,4 @@
+name : Alice
+skills : Python, Machine Learning, Data Analysis
+experience : 5
+education : M.Tech(Master's in Technology)
