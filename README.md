@@ -26,3 +26,27 @@ Extracts:
 - identifies:
    - Matched skills
    - Missing skills
+
+3.Experience check
+- Validates candidate’s experience against minimum job requirement
+
+4.Ecducation verification
+- Checks if candidate’s education matches job criteria
+
+5.Scoring System
+- Skills match contributes to score
+- Experience adds bonus score
+- Education adds bonus score
+- Final score out of 100
+
+6.Report Generation
+Produces formatted analysis report including:
+- Match Score
+- Matched & Missing Skills
+- Experience comparison
+- Final recommendation:
+  - STRONGLY RECOMMENDED
+  - RECOMMENDED
+  - MAYBE
+  - NOT RECOMMENDED
+ 
