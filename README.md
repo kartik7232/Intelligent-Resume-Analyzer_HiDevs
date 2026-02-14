@@ -12,7 +12,7 @@ it performs:
 - Report generation
 The system produces a professional-style resume analysis report with recommendation status.
 
-Features:
+Features:  
 1.Resume parsing
 Extracts:
 - Name
