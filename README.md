@@ -1,9 +1,7 @@
 Intelligent Resume Analyser
-
 An AI-inspired Resume Analyzer built using Python that evaluates a candidate’s resume against job requirements and generates a structured analysis report including match score, skill comparison, and recommendation status.
 
 Project Overview
-
 This project parses resume data from a text file, extracts structured information, and compares it with predefined job requirements.
 it performs:
 - Resume parsing
@@ -15,7 +13,6 @@ it performs:
 The system produces a professional-style resume analysis report with recommendation status.
 
 Features 
-
 1.Resume parsing
 Extracts:
 - Name
